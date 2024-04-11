@@ -14,7 +14,7 @@
 
 
 Check My Repository and projects
-My portfolio web : https://nishant0kumar.github.io/index.html   <--Here🤩
+My portfolio web : https://nishant0kumar.github.io   <--Here🤩
 
 
 See you later, SAyoNAra🫡
