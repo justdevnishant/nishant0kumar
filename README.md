@@ -1,8 +1,8 @@
-🐜What's Up! Nishant here
+<h3>What's Up! Explorer</h3>
+<h2>nishantKumar</h2>
 
 
-
-🌴About me
+## 🌴About me
 
 👨‍💻  Currently learnign Web development more precisely React Library (or you can say Framework🤔)
 
