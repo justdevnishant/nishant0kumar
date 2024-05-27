@@ -19,4 +19,7 @@ My portfolio web : https://nishant0kumar.github.io   <--Here🤩
 ## Stats
 <img alt="My Github stats" align="left" border-radius="40px" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0kumar&layout=compact" alt="Stats">
 <img border-radius="40px" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishant0kumar&show_icons=true&theme=light&include_all_commits=true&count_private=true">
+
+
+<img border-radius="40px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0kumar">
 See you later, SAyoNAra🫡
